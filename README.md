@@ -5,4 +5,5 @@ We started with dataset fer2013 to train our model(CNN). The data consists of 48
 The objective is to classify each face based on the emotion shown in the facial expression into one of five categories (Angry,Happy,Sad,Surprise,Neutral).we based on adopted VGG (VGG 16 + 19 ) achieving 60% accuracy.
 We collected our own dataset (thanks to my friends and my classmates) to apply transfer learning and data Augmentation.
 #Keras #TransferLearning #DataAugmentation #VGG #OpenCV#
-https://www.linkedin.com/feed/update/urn:li:activity:6684572394465583104/
+[Simulation](https://www.linkedin.com/feed/update/urn:li:activity:6684572394465583104/)
+
